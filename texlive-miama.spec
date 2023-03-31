@@ -1,6 +1,6 @@
 Name:		texlive-miama
 Version:	54512
-Release:	1
+Release:	2
 Summary:	The Miama Nueva handwriting font with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/miama
