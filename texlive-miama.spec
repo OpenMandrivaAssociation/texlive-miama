@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	The Miama Nueva handwriting font with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/miama
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/miama
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/miama.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/miama.doc.r%{version}.tar.xz
